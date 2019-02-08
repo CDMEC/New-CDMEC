@@ -1,0 +1,123 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: 'Open Sans', sans-serif;
+  max-width: 100%; }
+
+ul {
+  margin: 0; }
+
+header.header-page nav.nav {
+  padding-right: 35px;
+  padding-left: 35px; }
+  header.header-page nav.nav #menu-icon {
+    display: none;
+    width: 32px;
+    height: 32px; }
+  header.header-page nav.nav ul li {
+    display: inline-block;
+    padding: 30px 10px;
+    font-family: "Nunito", sans-serif; }
+  header.header-page nav.nav ul li.brand {
+    font-size: 2rem;
+    font-weight: 700; }
+    header.header-page nav.nav ul li.brand a {
+      color: #F60201;
+      text-decoration: none; }
+  header.header-page nav.nav ul li.info {
+    float: right;
+    font-size: 1.3rem;
+    font-weight: 700; }
+    header.header-page nav.nav ul li.info a {
+      color: #000;
+      border: 2px #F60201;
+      border-radius: 25px;
+      padding: 10px 20px;
+      text-transform: uppercase;
+      text-decoration: none; }
+    header.header-page nav.nav ul li.info a:hover {
+      color: #fff;
+      background-color: #F60201; }
+header.header-page .title-container {
+  width: 70%;
+  margin: 10% 15% 15% 15%;
+  text-align: center;
+  font-family: "Nunito", sans-serif; }
+  header.header-page .title-container .title {
+    font-size: 4rem;
+    font-weight: 600;
+    line-height: 90%; }
+  header.header-page .title-container .subtitle {
+    font-weight: 400;
+    font-size: 2rem;
+    line-height: 120%; }
+
+.posts {
+  min-height: 600px;
+  background-color: #eeeeee; }
+  .posts .post-container {
+    width: 50%;
+    margin: 5% 25% 0 25%; }
+    .posts .post-container a.post-title {
+      text-decoration: none;
+      font-size: 2rem;
+      text-align: center; }
+      .posts .post-container a.post-title .title {
+        color: #000;
+        font-family: "Nunito", sans-serif;
+        border-bottom: 2px solid #ff0523;
+        font-weight: 700; }
+    .posts .post-container p.post-date {
+      text-align: center;
+      color: #777; }
+    .posts .post-container a.extract {
+      color: #222;
+      text-decoration: none; }
+
+div.pagination {
+  height: 50px;
+  background-color: #eeeeee; }
+  div.pagination .prev {
+    float: left;
+    font-size: 1.2rem;
+    font-weight: 700;
+    margin: 20px 15px; }
+    div.pagination .prev a.previous-button {
+      color: #000;
+      border: 2px solid #ff0523;
+      border-radius: 25px;
+      padding: 10px 20px;
+      text-transform: uppercase;
+      text-decoration: none; }
+    div.pagination .prev a.previous-button:hover {
+      color: #fff;
+      background-color: #ff0523; }
+  div.pagination .next {
+    float: right;
+    font-size: 1.2rem;
+    font-weight: 700;
+    margin: 20px 15px; }
+    div.pagination .next a.next-button {
+      color: #000;
+      border: 2px solid #ff0523;
+      border-radius: 25px;
+      padding: 10px 20px;
+      text-transform: uppercase;
+      text-decoration: none; }
+    div.pagination .next a.next-button:hover {
+      color: #fff;
+      background-color: #ff0523; }
+
+.post-content p {
+  font-size: 1.7rem; }
+
+footer {
+  width: 100%;
+  background-color: #eee;
+  position: absolute; }
+  footer .footer-text {
+    margin: 0;
+    padding: 15px;
+    color: #777;
+    text-align: center; }
