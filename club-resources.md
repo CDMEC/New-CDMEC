@@ -6,7 +6,7 @@ permalink: /club-resources/
 
 <span style="font-size: 1.3em;">(Still a Work in Progress)
 
-<span style="font-size: 1.3em;"><b>The Winter Timeble 2019</b>
+<span style="font-size: 1.3em;"><b>The Winter Timetable 2019</b>
 
 
 <style type="text/css">
@@ -39,7 +39,7 @@ permalink: /club-resources/
   </tr>
   <tr>
     <td class="tg-0pky">27/2/19</td>
-    <td class="tg-0pky">Nuts and Natter -  wheels and profiles</td>
+    <td class="tg-0pky">Nuts and Natter - wheels and profiles</td>
     <td class="tg-0pky">Ron M</td>
   </tr>
   <tr>
